@@ -1,1 +1,14 @@
 # DSA-PROJECT-DOCUMENTATION
+
+This is a summary of my Data Analysis (intermediate level) journey with the Incubator Hub. 
+
+I acquired more knowledge and can now use Ms Excel well, SQL, know how to build my Portfolio and a bit understanding of Power BI.
+
+
+## Project Topic:  Product Sales and Review Analysis (An Excel Case Scenario) & Inventory and Sales Analysis (An SQL Case Scenario)
+
+### Project Overview
+
+The Excel case analysis project aims to generate insights into the product sales, categories and number of reviews from customers per time. By analyzing the parameters in our given data, we aim to gather more insights for better understanding, so as to giver better inferences for a more reliable decision-making process.
+
+The SQL project aims to also generate insights into the office supplies and furniture, order levels and sales. By analyzing the parameters in our given data, we aim to gather more insights for a reliable and accurate decision-making process.
