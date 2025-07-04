@@ -12,3 +12,15 @@ I acquired more knowledge and can now use Ms Excel well, SQL, know how to build 
 The Excel case analysis project aims to generate insights into the product sales, categories and number of reviews from customers per time. By analyzing the parameters in our given data, we aim to gather more insights for better understanding, so as to giver better inferences for a more reliable decision-making process.
 
 The SQL project aims to also generate insights into the office supplies and furniture, order levels and sales. By analyzing the parameters in our given data, we aim to gather more insights for a reliable and accurate decision-making process.
+
+### Data Sources
+The projects use primary data sources provided by the class instructors to carry out their various analyses. The data are contained here as Amazon case study.xls, KMS Sql Case Study.csv and Order_Status.xls.
+
+### Tools Used
+- Ms Excel (Download here)
+    - Data collection
+    - Data cleaning
+    - Power query (to clean the SQL case file)
+    - Pivot table and dashboard (for analysis)
+- SQL Server for Querying and Analysis
+
