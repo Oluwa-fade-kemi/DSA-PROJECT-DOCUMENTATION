@@ -24,3 +24,33 @@ The projects use primary data sources provided by the class instructors to carry
     - Pivot table and dashboard (for analysis)
 - SQL Server for Querying and Analysis [Download here](https://learn.microsoft.com/en-us/ssms/install/install)
 
+### Data Cleaning and Preparation
+Here, the following actions were performed;
+1.	Data loading and inspection
+2.	Handling missing variables
+3.	Removing duplicates
+4.	Data cleaning and formatting
+5.	Data transformation
+
+### Explorative Data Analysis
+EDA contains the task carried out in form of questions and answers about the data, it is attached below;
+
+### Data Analysis
+Here, queries used in SQL and formulas, tables & dashboard used in Excel for the analyses are included.
+For instance,
+```sql
+SELECT
+p.Product_category,
+     SUM (s.quantity * s.price) AS total_revenue,
+     COUNT (DISTINCT s.sale_id) AS number_of_sales,
+     AVG (s.price) AS average_sale_price
+FROM
+     Sales s
+JOIN
+     Products p ON s.product_id = p.product_id
+GROUP BY
+p.product_category
+ORDER BY
+total_revenue DESC;
+```
+
