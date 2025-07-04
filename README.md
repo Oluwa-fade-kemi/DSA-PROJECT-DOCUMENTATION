@@ -22,5 +22,5 @@ The projects use primary data sources provided by the class instructors to carry
     - Data cleaning
     - Power query (to clean the SQL case file)
     - Pivot table and dashboard (for analysis)
-- SQL Server for Querying and Analysis
+- SQL Server for Querying and Analysis [Download here](https://learn.microsoft.com/en-us/ssms/install/install)
 
