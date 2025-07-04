@@ -65,4 +65,22 @@ p.product_category
 ORDER BY
 total_revenue DESC;
 ```
+Then we have this has our final cleaned data that was worked with for analysis;
+
+### Findings
+
+### Contact
+This project was completed as part of the Data Analysis Course organized by Incubator Hub (Digital Skillup Africa, DSA Programme).
+
+### Acknowledgements
+These projects demonstrated the application of Excel and SQL for data analysis. The findings provide valuable insights into product sales, categories, ratings and review, office purchase and supplies, order levels, etc., and offer information for key management decision making.
+
+### Citations
+OLUGA OMOWONUOLA OLUWAFADEKEMI
+oluwafadekemioluga88@gmail.com
+
+
+
+
+
 
