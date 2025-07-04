@@ -17,7 +17,7 @@ The SQL project aims to also generate insights into the office supplies and furn
 The projects use primary data sources provided by the class instructors to carry out their various analyses. The data are contained here as Amazon case study.xls, KMS Sql Case Study.csv and Order_Status.xls.
 
 ### Tools Used
-- Ms Excel (Download here)
+- Ms Excel [Download here](https://www.microsoft.com)
     - Data collection
     - Data cleaning
     - Power query (to clean the SQL case file)
