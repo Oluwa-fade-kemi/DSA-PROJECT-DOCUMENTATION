@@ -33,8 +33,20 @@ Here, the following actions were performed;
 5.	Data transformation
 
 ### Explorative Data Analysis
-EDA contains the task carried out in form of questions and answers about the data, it is attached below;
+EDA contains the task carried out in form of questions and answers about the data, few of them are listed below;
 
+Case Study 1: Amazon Product Review Analysis
+Excel-based analysis
+
+Tasks focus on pricing, ratings, discount patterns, and category insights
+
+Ends with creating an interactive Excel dashboard
+
+Case Study 2: Kultra Mega Stores Inventory (SQL)
+analyzing sales and shipping patterns from 2009–2012
+
+Goal: advise business decisions based on sales, shipping, and customer behavior
+  
 ### Data Analysis
 Here, queries used in SQL and formulas, tables & dashboard used in Excel for the analyses are included.
 For instance,
