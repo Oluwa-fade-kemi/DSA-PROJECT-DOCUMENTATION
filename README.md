@@ -69,6 +69,7 @@ Then we have this has our final cleaned data that was worked with for analysis;
 
 ### Findings
 
+
 ### Contact
 This project was completed as part of the Data Analysis Course organized by Incubator Hub (Digital Skillup Africa, DSA Programme).
 
